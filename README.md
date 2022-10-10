@@ -18,7 +18,7 @@
   
   ### Register a user:
 ![Screenshot from 2022-10-10 11-56-47](https://user-images.githubusercontent.com/75250092/194809006-81899ea8-24c8-4f51-a0ca-2ebf1cbd80d6.png)
-)### Login:
+### Login:
 ![Screenshot from 2022-10-10 11-56-54](https://user-images.githubusercontent.com/75250092/194809130-2f839725-96e2-4076-aac6-ea028c35b960.png)
 ### Get user by ID:
 ![Screenshot from 2022-10-10 11-57-15](https://user-images.githubusercontent.com/75250092/194809226-776ac697-6703-4b99-bfce-365da52f4366.png)
