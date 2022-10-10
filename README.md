@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Arushi Tailang - [@arushi-tailang](https://www.linkedin.com/in/arushi-tailang-1a23001b0/) - arushitailang2001@gmail.com
+Arushi Tailang - [@arushi-tailang](https://www.linkedin.com/in/arushi-tailang-1a23001b0/) - arushitailang20@gmail.com
 
 
 
