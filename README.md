@@ -37,8 +37,7 @@
 ### Income:
 ![Screenshot from 2022-10-10 11-59-07](https://user-images.githubusercontent.com/75250092/194809644-63afb0ae-f0f2-4bb5-bdd6-85b5787e46fd.png)
 
-## Postman file (exported):
-/home/arushi/Desktop/Ecommerce.postman_collection.json
+
 
 ## Technologies Used:
 
